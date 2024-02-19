@@ -355,6 +355,7 @@ h3{
 }
 
 .but_back{
+  cursor: pointer;
   position: absolute;
   display: flex;
   top: 25px;
